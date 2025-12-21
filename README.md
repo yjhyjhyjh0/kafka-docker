@@ -31,4 +31,4 @@ docker exec -it kafka-local /opt/kafka/bin/kafka-console-consumer.sh \
 [Docker hub for Apache Kafka](https://hub.docker.com/r/apache/kafka/)  
 [Apache Kafka Docker Doc](https://kafka.apache.org/41/getting-started/docker/)  
 [Apache Kafka Quickstart](https://kafka.apache.org/41/getting-started/quickstart/)
- 
+
